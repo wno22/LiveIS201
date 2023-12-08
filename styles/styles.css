@@ -1,0 +1,18 @@
+li {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+    color: maroon;
+}
+.underline {
+    text-decoration: underline;
+}
+.paragraph {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
